@@ -1,0 +1,4 @@
+n=int(input("enter n value:"))
+c=n+1
+sum=n**2
+print(sum)
