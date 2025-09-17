@@ -1,0 +1,5 @@
+set={10,20,30,30,40}
+tuple=(10,20,30,40,50)
+list=[10,20,30,40]
+dict={"a":10,"b":20}
+print(set,tuple,list,dict)
