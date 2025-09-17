@@ -1,6 +1,4 @@
-a=int(input("enter your first number"))
-b=int(input("enter your second number"))
-print(a+b)
-#or
-sum=a+b
-print(sum)
+first_name=input("enter your first name")
+second_name=input("enter your second name")
+full_name=first_name+second_name
+print(full_name)
