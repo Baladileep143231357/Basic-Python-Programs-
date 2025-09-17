@@ -1,0 +1,4 @@
+#enter your name
+
+print("bala dileep")
+print(str(input("enter the name")))
