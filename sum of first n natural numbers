@@ -1,0 +1,5 @@
+n=int(input("enter n value:"))
+c=n+1
+d=n*c
+sum=d//2
+print(sum)
