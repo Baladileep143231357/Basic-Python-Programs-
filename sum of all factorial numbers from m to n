@@ -1,0 +1,11 @@
+import math
+m=int(input("enter the number"))
+n=int(input("enter the number"))
+sum=0
+if n<m:
+    print("0")
+else:
+    for i in range(m,n+1):
+            w=math.factorial(i)
+            sum=sum+w
+print(sum)
